@@ -2,7 +2,7 @@
 
 > **Production-grade Retrieval-Augmented Generation system with sophisticated NLP pipeline and vector database architecture**
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Try_Now-blue?style=for-the-badge)]((https://saurabhkadamn.github.io/RAG-NLP-Pipeline/))
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Try_Now-blue?style=for-the-badge)]([https://saurabhkadamn.github.io/RAG-NLP-Pipeline/])
 [![Backend API](https://img.shields.io/badge/🤗_Backend_API-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/spaces/saurabh318/KB)
 [![Vector DB](https://img.shields.io/badge/📊_Vector_DB-Pinecone-green?style=for-the-badge)](https://www.pinecone.io/)
 [![NLP Engine](https://img.shields.io/badge/🧠_NLP_Engine-Sentence_Transformers-orange?style=for-the-badge)](https://www.sbert.net/)
@@ -496,4 +496,5 @@ Built by **Saurabh Kadam** - Specializing in NLP, RAG Systems, and Vector Databa
 [🌐 Try Live Demo]((https://saurabhkadamn.github.io/RAG-NLP-Pipeline/)) • [🤗 Backend API](https://huggingface.co/spaces/saurabh318/KB) • [📊 Technical Analysis](https://github.com/Saurabhkadamn/Advanced-RAG-NLP-Architecture/wiki) • [🐛 Report Issues](https://github.com/Saurabhkadamn/Advanced-RAG-NLP-Architecture/issues)
 
 </div>
+
 
