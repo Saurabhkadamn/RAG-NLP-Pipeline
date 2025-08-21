@@ -2,7 +2,7 @@
 
 > **Production-grade Retrieval-Augmented Generation system with sophisticated NLP pipeline and vector database architecture**
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Try_Now-blue?style=for-the-badge)]([https://saurabhkadamn.github.io/RAG-NLP-Pipeline/])
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Try_Now-blue?style=for-the-badge)](https://saurabhkadamn.github.io/Advanced-RAG-NLP-Architecture/)
 [![Backend API](https://img.shields.io/badge/🤗_Backend_API-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/spaces/saurabh318/KB)
 [![Vector DB](https://img.shields.io/badge/📊_Vector_DB-Pinecone-green?style=for-the-badge)](https://www.pinecone.io/)
 [![NLP Engine](https://img.shields.io/badge/🧠_NLP_Engine-Sentence_Transformers-orange?style=for-the-badge)](https://www.sbert.net/)
@@ -364,8 +364,8 @@ GET https://saurabh318-kb.hf.space/health
 ### **1. Clone and Setup**
 ```bash
 # Clone the repository
-git clone https://github.com/Saurabhkadamn/Advanced-RAG-NLP-Architecture.git
-cd Advanced-RAG-NLP-Architecture
+git clone https://github.com/Saurabhkadamn/RAG-NLP-Pipeline.git
+cd RAG-NLP-Pipeline
 
 # Install dependencies
 pip install -r requirements.txt
@@ -456,7 +456,7 @@ Built by **Saurabh Kadam** - Specializing in NLP, RAG Systems, and Vector Databa
 - 💼 **LinkedIn**: [Saurabh Kadam](https://www.linkedin.com/in/saurabh-kadam-318sa/)
 - 📧 **Email**: saurabh.kadam.5051@gmail.com
 - 🐙 **GitHub**: [@Saurabhkadamn](https://github.com/Saurabhkadamn)
-- 🔬 **Technical Discussion**: [Open an Issue](https://github.com/Saurabhkadamn/Advanced-RAG-NLP-Architecture/issues)
+- 🔬 **Technical Discussion**: [Open an Issue](https://github.com/Saurabhkadamn/RAG-NLP-Pipeline/issues)
 
 ---
 
@@ -493,8 +493,6 @@ Built by **Saurabh Kadam** - Specializing in NLP, RAG Systems, and Vector Databa
 
 **⭐ Star this repository if you found the RAG + NLP architecture helpful!**
 
-[🌐 Try Live Demo]((https://saurabhkadamn.github.io/RAG-NLP-Pipeline/)) • [🤗 Backend API](https://huggingface.co/spaces/saurabh318/KB) • [📊 Technical Analysis](https://github.com/Saurabhkadamn/Advanced-RAG-NLP-Architecture/wiki) • [🐛 Report Issues](https://github.com/Saurabhkadamn/Advanced-RAG-NLP-Architecture/issues)
+[🌐 Try Live Demo](https://saurabhkadamn.github.io/Advanced-RAG-NLP-Architecture/) • [🤗 Backend API](https://huggingface.co/spaces/saurabh318/KB) • [📊 Technical Analysis](https://github.com/Saurabhkadamn/Advanced-RAG-NLP-Architecture/wiki) • [🐛 Report Issues](https://github.com/Saurabhkadamn/Advanced-RAG-NLP-Architecture/issues)
 
 </div>
-
-
